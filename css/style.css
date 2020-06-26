@@ -1,0 +1,43 @@
+body {
+  color: white;
+  text-align: center;
+  background-color: black;
+  opacity: 0.9;
+  font-family: Verdana;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+h6 {
+  color: gray;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+.el_nav {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.el_img {
+  display: block;
+  margin: 20px auto;
+}
+
+.ly_footer {
+  text-align: right;
+}
+
+
+
